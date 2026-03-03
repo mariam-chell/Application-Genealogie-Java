@@ -4,5 +4,5 @@
 /**
  * 
  */
-module cherifiyasmine_Mariamchellaf_GEDCOM {
+module Mariamchellaf_GEDCOM {
 }
